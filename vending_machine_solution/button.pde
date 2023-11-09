@@ -1,5 +1,6 @@
 //a class for making button objects
 class Button {
+  float myNumber = 5;
   float xPosition;
   float yPosition;
   float w;
