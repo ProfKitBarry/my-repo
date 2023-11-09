@@ -2,7 +2,7 @@
 //name them in capital letters so you know they're constant
 //and their values won't change (be assigned new values)
 color GREEN = color(255,0,0);
-boolean thisOne = false;
+boolean thisOne = true; //this one ismore awesome
 int newInteger = 14;
 color DARK_GREEN = color(0, 120, 50);
 color BLUE = color(42, 155, 245);
